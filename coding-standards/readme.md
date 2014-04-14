@@ -11,21 +11,21 @@
 
 - if-else should look like this:
 
-	if (condition) {
+    if (condition) {
 
-	} else if (condition) {
+    } else if (condition) {
 
-	} else {
+    } else {
 
-	}
+    }
 
 (notice the spaces before and after the parentheses)
 
 - Objects and methods
 
-	- (Widget *)methodName
-	{
+    - (Widget *)methodName
+    {
 
-	}
+    }
 
 - two empty spaces above, 1 empty space below each method or class definition
